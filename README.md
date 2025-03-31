@@ -81,7 +81,7 @@ kubectl delete pod -n botspace -l app=bot
 Vymažte všetky objekty v Kubernetes:
 
 ```bash
-./stop=app.sh
+./stop-app.sh
 ```
 
 ## 7. Návod ako si pozrieť aplikáciu na webovom prehliadači
